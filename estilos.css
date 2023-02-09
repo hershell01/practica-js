@@ -1,0 +1,36 @@
+body {
+    background-color: #e3f5fa;
+}
+
+img {
+    width: 300px;
+}
+
+h1, h2, h3 
+    {
+       color: blue; 
+    }
+
+#text1 {
+    font-size: 1em;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Roboto Slab', monospace;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 20px;
+    color: #121a19;
+    padding: 20px;
+    margin: 30px 20px 40px 30px;
+    border: 17px solid rgb(134, 242, 118);
+    background-color: rgb(47, 250, 91);
+    /*text-decoration: line-through;*/
+    word-spacing: 20px;
+    box-shadow: 1px 1px 11px 4px #89928e;
+
+    
+
+
+
+}
+
